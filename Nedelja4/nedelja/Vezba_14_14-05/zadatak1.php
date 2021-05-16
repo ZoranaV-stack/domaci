@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="novi.php" method="GET">
+    <form action="novi1.php" method="GET">
         <input type="text" name="ime">
         <input type="text" name="prezime">
         <input type="submit">
